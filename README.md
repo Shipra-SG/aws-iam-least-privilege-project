@@ -59,7 +59,7 @@ IAM Role (ec2-s3-readonly-role)
 ▼
 Attached to EC2 Instance → Secure S3 Read Access
 
-*(Place your diagram at: `/architecture/iam-architecture.png`)*
+![Architecture](architecture/iam-architecture.png)
 
 
 ---
